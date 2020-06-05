@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="normal_Broadcast_send_data/app" />
+      <module fileurl="file://$PROJECT_DIR$/normal_Broadcast_send_data.iml" filepath="$PROJECT_DIR$/normal_Broadcast_send_data.iml" group="normal_Broadcast_send_data" />
+    </modules>
+  </component>
+</project>
